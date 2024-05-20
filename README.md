@@ -4,6 +4,6 @@ a convenient ios shortcut that lives in your share menu, allowing you to swiftly
 powered by https://github.com/imputnet/cobalt
 
 ### to-do
-[] autoupdater
-[] fancy vcard menus
-[] new api options (if any)
+- [ ] autoupdater
+- [ ] fancy vcard menus
+- [ ] new api options (if any)
