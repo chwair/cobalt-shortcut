@@ -1,6 +1,6 @@
 # iOS cobalt shortcut
 
-a convenient ios shortcut that lives in your share menu, allowing you to swiftly send videos off to cobalt for easy downloading
+a convenient ios shortcut that lives in your share menu, allowing you to swiftly send videos off for easy downloading
 powered by https://github.com/imputnet/cobalt
 
 ### to-do
